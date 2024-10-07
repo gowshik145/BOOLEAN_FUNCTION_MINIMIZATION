@@ -58,10 +58,10 @@ endmodule
 
 ```
 
-**RTL realization**
+## RTL realization ##
 ![ex 2 1](https://github.com/user-attachments/assets/e78ab962-a2d0-4d6b-87b5-b5e129ca3496)
 
-**Output:**
+## Output: ##
 ![ex 2 2](https://github.com/user-attachments/assets/84324244-d528-4e3b-8ebb-8e7178b7947d)
 
 **Result:**
