@@ -66,10 +66,6 @@ endmodule
 ![ex 2 2](https://github.com/user-attachments/assets/84324244-d528-4e3b-8ebb-8e7178b7947d)
 
 
-**RTL**
-
-**Timing Diagram**
-
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
